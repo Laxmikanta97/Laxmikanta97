@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi there!, I’m Laxmikanta
+Automation & Data Testing Engineer | Java • SQL Server • Test Automation 
 
-<!--
-**Laxmikanta97/Laxmikanta97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With 6+ years in IT, I specialize in Authering automation Scripts, validating critical data pipelines, and ensuring software quality from both application and database perspectives.
 
-Here are some ideas to get you started:
+📌 What I Do
+🛠️ Test Automation & QA: Java, Selenium, TestNG, REST-Assured
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Data Testing: SQL Server, ETL validation, data integrity checks
+
+🔄 CI/CD & DevOps: Git, Jenkins, Docker
+
+🌱 Continuous Learning: BDD, TDD, Agile methodologies, Data Engineering
+
+📚 Featured Projects
+✅ Java Test Automation Framework – Modular, reusable test suite for web apps
+✅ SQL Data Validation Tool – Automated verifications across staging and prod databases
+
+(Links and detailed descriptions available in my repos! 🔍)
+
+📊 Tech Stack & Tools
+Java | Selenium | TestNG | REST-Assured | SQL Server | T‑SQL  
+Git | Jenkins | DevOps | CI/CD | Agile | BDD/TDD
+
+⚡ Fun Fact
+Outside of work, I’m passionate about reading articles and watching tech contents
+
+🔗 Let’s Connect
+GitHub: github.com/Laxmikanta97
+
+LinkedIn: linkedin.com/in/laxmikantamishra97
+
+
+
+

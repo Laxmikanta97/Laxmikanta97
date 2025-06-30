@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi there 👋,  I’m Laxmikanta
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there,  I’m Laxmikanta
+  
 </h1> 
 Automation & Data Testing Engineer | Java • SQL Server • Test Automation 
 

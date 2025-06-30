@@ -1,4 +1,7 @@
-👋 Hi there!, I’m Laxmikanta
+<h1 align="center">
+  Hi there 👋, I'm [Your Name]
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1> Hi there!, I’m Laxmikanta
 Automation & Data Testing Engineer | Java • SQL Server • Test Automation 
 
 With 6+ years in IT, I specialize in Authering automation Scripts, validating critical data pipelines, and ensuring software quality from both application and database perspectives.

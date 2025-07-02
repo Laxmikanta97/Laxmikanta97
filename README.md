@@ -7,6 +7,7 @@ Automation & Data Testing Engineer | Java • SQL Server • Test Automation
 With 6+ years in IT, I specialize in Authering automation Scripts, validating critical data pipelines, and ensuring software quality from both application and database perspectives.
 
 📌 What I Do
+---
 
 🛠️ Test Automation & QA: Java, Selenium, TestNG, REST-Assured
 
@@ -17,6 +18,7 @@ With 6+ years in IT, I specialize in Authering automation Scripts, validating cr
 🌱 Continuous Learning: BDD, TDD, Agile methodologies, Data Engineering
 
 📚 Featured Projects
+---
 
 ✅ Java Test Automation Framework – Modular, reusable test suite for web apps
 
@@ -25,15 +27,18 @@ With 6+ years in IT, I specialize in Authering automation Scripts, validating cr
 (Links and detailed descriptions available in my repos! 🔍)
 
 📊 Tech Stack & Tools
+---
 
 Java | Selenium | TestNG | REST-Assured | SQL Server | T‑SQL  
 Git | Jenkins | DevOps | CI/CD | Agile | BDD/TDD
 
 ⚡ Fun Fact
+---
 
 Outside of work, I’m passionate about reading articles and watching tech contents
 
 🔗 Let’s Connect
+---
 
 GitHub: github.com/Laxmikanta97
 

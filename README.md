@@ -9,11 +9,11 @@ With 6+ years in IT, I specialize in Authering automation Scripts, validating cr
 📌 What I Do
 ---
 
-🛠️ Test Automation & QA: Java, Selenium, TestNG, REST-Assured
+🛠️ QA Automation & SDET: Java, Selenium, TestNG, ETL validation, data integrity checks
 
-🧪 Data Testing: SQL Server, ETL validation, data integrity checks
+🧪 Data Engineering: SQL Server, ETL, SSIS
 
-🔄 CI/CD & DevOps: Git, Jenkins, Docker
+🔄 CI/CD & DevOps: Git, GitHub, Teamcity
 
 🌱 Continuous Learning: BDD, TDD, Agile methodologies, Data Engineering
 
@@ -22,7 +22,7 @@ With 6+ years in IT, I specialize in Authering automation Scripts, validating cr
 
 ✅ Java Test Automation Framework – Modular, reusable test suite for web apps
 
-✅ SQL Data Validation Tool – Automated verifications across staging and prod databases
+✅ ETL Development  – Building a data warehouse to generating actionable insights
 
 (Links and detailed descriptions available in my repos! 🔍)
 
@@ -30,7 +30,7 @@ With 6+ years in IT, I specialize in Authering automation Scripts, validating cr
 ---
 
 Java | Selenium | TestNG | REST-Assured | SQL Server | T‑SQL  
-Git | Jenkins | DevOps | CI/CD | Agile | BDD/TDD
+Git  | Teamcity | DevOps | CI/CD        | Agile      | BDD/TDD
 
 ⚡ Fun Fact
 ---

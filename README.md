@@ -43,7 +43,6 @@ Outside of work, I’m passionate about reading articles and watching tech conte
 GitHub: github.com/Laxmikanta97
 
 LinkedIn: linkedin.com/in/laxmikantamishra97
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/laxmikantamishra97)
 
 
 

@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there,  I’m Laxmikanta
   
 </h1> 
-Automation & Data Testing Engineer | Java • SQL Server • Test Automation 
+Automation & Data Testing Engineer | Java | SQL Server | Test Automation 
 
 With 6+ years in IT, I specialize in Authering automation Scripts, validating critical data pipelines, and ensuring software quality from both application and database perspectives.
 
@@ -15,7 +15,7 @@ With 6+ years in IT, I specialize in Authering automation Scripts, validating cr
 
 🔄 CI/CD & DevOps: Git, GitHub, Teamcity
 
-🌱 Continuous Learning: BDD, TDD, Agile methodologies, Data Engineering
+🌱 Continuous Learning: BDD, TDD, Agile methodologies, Database Testing
 
 📚 Featured Projects
 ---

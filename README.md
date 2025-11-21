@@ -4,7 +4,7 @@
 </h1> 
 Automation & Data Testing Engineer | Java | SQL Server | Test Automation (UI+API+Database)
 
-With 6+ years in IT, I specialize in Authering automation Scripts, Data recon, and ensuring software quality from both application and database perspectives.
+With 7+ years in QA, I specialize in Authering automation Scripts, Data recon, and ensuring software quality from both application and database perspectives.
 
 📌 What I Do
 ---

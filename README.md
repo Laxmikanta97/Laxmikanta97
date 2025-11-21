@@ -9,13 +9,13 @@ With 7+ years in QA, I specialize in Authering automation Scripts, Data recon, a
 📌 What I Do
 ---
 
-🛠️ QA Automation & SDET: Java, Selenium, TestNG, Cucumber, data integrity checks
+🛠️ QA Automation & SDET: Java, Selenium, TestNG, Cucumber, Rest Assured , Postman
 
 🧪 Data Testing: SQL Server, ETL, SSIS
 
 🔄 CI/CD & DevOps: Git, GitHub, Teamcity
 
-🌱 Continuous Learning: RestAssured,Postman,Automation Testing
+🌱 Continuous Learning: Generative AI and AI‑Driven Automation Tools
 
 📚 Featured Projects
 ---

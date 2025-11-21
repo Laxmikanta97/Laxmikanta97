@@ -4,18 +4,18 @@
 </h1> 
 Automation & Data Testing Engineer | Java | SQL Server | Test Automation 
 
-With 6+ years in IT, I specialize in Authering automation Scripts, validating critical data pipelines, and ensuring software quality from both application and database perspectives.
+With 6+ years in IT, I specialize in Authering automation Scripts, Data recon, and ensuring software quality from both application and database perspectives.
 
 📌 What I Do
 ---
 
-🛠️ QA Automation & SDET: Java, Selenium, TestNG, ETL validation, data integrity checks
+🛠️ QA Automation & SDET: Java, Selenium, TestNG, Cucumber, data integrity checks
 
-🧪 Data Engineering: SQL Server, ETL, SSIS
+🧪 Data Testing: SQL Server, ETL, SSIS
 
 🔄 CI/CD & DevOps: Git, GitHub, Teamcity
 
-🌱 Continuous Learning: BDD, TDD, Agile methodologies, Database Testing
+🌱 Continuous Learning: RestAssured,Postman,Automation Testing
 
 📚 Featured Projects
 ---

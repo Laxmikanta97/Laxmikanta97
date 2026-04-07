@@ -29,8 +29,8 @@ With 7+ years in QA, I specialize in Authering automation Scripts, Data recon an
 📊 Tech Stack & Tools
 ---
 
-Java | Selenium | TestNG | REST-Assured | SQL Server | T‑SQL  
-Git  | Teamcity | DevOps | CI/CD        | Agile      | BDD/TDD
+Java | Selenium | TestNG | REST-Assured | SQL Server | T‑SQL    | Jenkins
+Git  | Teamcity | DevOps | CI/CD        | Agile      | BDD/TDD  | Docker
 
 ⚡ Fun Fact
 ---

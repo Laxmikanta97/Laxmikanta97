@@ -4,7 +4,7 @@
 </h1> 
 Automation & Data Testing Engineer | Java | SQL Server | Test Automation (UI+API+Database)
 
-With 7+ years in QA, I specialize in Authering automation Scripts, Data recon, and ensuring software quality from both application and database perspectives.
+With 7+ years in QA, I specialize in Authering automation Scripts, Data recon and ensuring software quality from both application and database perspectives.
 
 📌 What I Do
 ---
@@ -13,7 +13,7 @@ With 7+ years in QA, I specialize in Authering automation Scripts, Data recon, a
 
 🧪 Data Testing: SQL Server, ETL, SSIS
 
-🔄 CI/CD & DevOps: Git, GitHub, Teamcity
+🔄 CI/CD & DevOps: Git, GitHub, Teamcity, Docker
 
 🌱 Continuous Learning: Generative AI and AI‑Driven Automation Tools
 
@@ -22,7 +22,7 @@ With 7+ years in QA, I specialize in Authering automation Scripts, Data recon, a
 
 ✅ Java Test Automation Framework – Modular, reusable test suite for web apps
 
-✅ ETL Development  – Building a data warehouse to generating actionable insights
+✅ ETL Development  – Building a demo data warehouse to generating actionable insights
 
 (Links and detailed descriptions available in my repos! 🔍)
 
